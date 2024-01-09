@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaromn.
 - 👀 I’m interested in body building and History.
-- 🌱 I’m currently learning Assembly Language.
+- 🌱 I’m currently learning Assembly Language, Django, and SQL.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me on Discord Aaromn #3624.
 
