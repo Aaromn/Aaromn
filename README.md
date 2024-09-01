@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaromn.
 - 👀 I’m interested in Economics and History.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Functional Programming.
 - 💞️ I’m looking for an internship over the summer.
 - 📫 How to reach me on Discord Aaromn #3624.
 
