@@ -2,7 +2,7 @@
 - 👀 I’m interested in Economics and History.
 - 🌱 I’m currently learning Functional Programming.
 - 💞️ I’m looking for an internship over the summer of 2025.
-- 📫 How to reach me on Discord Aaromn #3624.
+- 📫 Reach out to me aaronespana812@gmail.com.
 
 <!---
 Aaromn/Aaromn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
