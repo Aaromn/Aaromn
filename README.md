@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aaromn.
 - 👀 I’m interested in Economics and History.
 - 🌱 I’m currently learning Functional Programming.
-- 💞️ I’m looking for an internship over the summer of 2025.
+- 💞️ I’m looking for an internship over the summer of 2026.
 - 📫 Reach out to me aaronespana812@gmail.com.
 
 <!---
